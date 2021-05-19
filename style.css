@@ -1,0 +1,25 @@
+#mapa-do-tesouro {
+	background-color: #fff5be;
+}
+
+#area-mensagem {
+	min-height: 10vh;
+	padding-left: 50px;
+	padding-top: 50px;
+}
+
+#container-mapa {
+	min-height: 80vh;
+}
+
+.imagens-mapa {
+	position: absolute;
+}
+
+.dunas {
+	z-index: -1;
+}
+
+/*.X {
+	display: none;
+}*/
